@@ -6,3 +6,6 @@
 ```
 2. To Activate Env -> conda activate name_of_env/
 ```
+````
+3. Best way to developed any type of project from scratch
+````
